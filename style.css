@@ -1,0 +1,27 @@
+.logo__block {
+   display: flex;
+   margin: 0px 0px 0px 1rem;
+}
+
+.logo {
+   border: 10px blue solid;
+   border-radius: 35%;
+}
+.right {
+   display: flex;
+   margin: 0px 1rem 0px 0px;
+}
+
+/* .navbar-brand {
+   width: 100px;
+} */
+
+.logo__name {
+   text-align: center;
+   align-items: center;
+   margin: 8% 0px 0px 0px;
+}
+
+/* .carouser__size {
+   height: 410px;
+} */
